@@ -29,6 +29,7 @@ public class Programmer {
     @Enumerated(EnumType.STRING)
     private Language language;
     private Byte age;
+    private String laptop;
 
     @Enumerated(EnumType.STRING)
     private Country country;
